@@ -2,7 +2,7 @@
 This repository contains key summary and description files for various papers.
 
 ## Members
-The member consists of 8 researchers belonging to the Data Mining & Quality Analytics (DMQA) lab.
+The member consists of 8 researchers belonging to the Data Mining & Quality Analytics (DMQA) lab.\
 **If you have any questions, please contact us by email of the researcher who prepared the material.**
 
 * Young Jae Lee
