@@ -33,5 +33,5 @@ If you have any questions, please contact us by email of the researcher who prep
 Key Summary and Description of Paper on Vision Transformer
 
 * 2021-05-21
-  * Young Jae Lee / Visual Transformers: Token-based Image Representation and Processing for Computer Vision [paper](https://arxiv.org/abs/2006.03677)
-  * Saerin Lim / TransGAN: Two Transformers Can Make One Strong GAN [paper](https://arxiv.org/abs/2102.07074)
+  * Young Jae Lee / Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/abs/2006.03677)
+  * Saerin Lim / TransGAN: Two Transformers Can Make One Strong GAN[[paper]](https://arxiv.org/abs/2102.07074)
