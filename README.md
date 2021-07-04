@@ -32,6 +32,6 @@ The member consists of 8 researchers belonging to the Data Mining & Quality Anal
 ## Vision Transformer
 Key Summary and Description of Paper on Vision Transformer
 
-* 2021-06-25
+* 2021-07-02
   * Young Jae Lee / Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/abs/2006.03677)
   * Saerin Lim / TransGAN: Two Transformers Can Make One Strong GAN [[paper]](https://arxiv.org/abs/2102.07074)
