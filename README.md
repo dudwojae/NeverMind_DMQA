@@ -21,7 +21,7 @@ The member consists of 8 researchers belonging to the Data Mining & Quality Anal
   * M.S. Student / Email: momo_om@korea.ac.kr
   
 * Jongkook Heo
-  * M.S. Student / Email: hjksol406@korea.ac.kr
+  * M.S. Student / Email: hjkso1406@korea.ac.kr
   
 * Eunji Koh
   * M.S. Student / Email: ejkoh21@korea.ac.kr
@@ -35,3 +35,8 @@ Key Summary and Description of Paper on Vision Transformer
 * 2021-07-02
   * Young Jae Lee / Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/abs/2006.03677)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210702/%5B20210702%5DVisual%20Transformers%20-%20Token-based%20Image%20Representation%20and%20Processing%20for%20Computer%20Vision.pdf)
   * Saerin Lim / TransGAN: Two Transformers Can Make One Strong GAN [[paper]](https://arxiv.org/abs/2102.07074)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210702/%5B20210702%5DTransGAN-Two%20Transformers%20Can%20Make%20One%20Strong%20GAN.pdf)
+
+
+* 2021-07-09
+  * Jaehoon Kim / Rethinking Spatial Dimensions of Vision Transformers [[paper]](https://arxiv.org/abs/2103.16302)
+  * Jongkook Heo / Emerging Properties in Self-Supervised Vision Transformers [[paper]](https://arxiv.org/abs/2104.14294)
