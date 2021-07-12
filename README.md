@@ -38,5 +38,5 @@ Key Summary and Description of Paper on Vision Transformer
 
 
 * 2021-07-09
-  * Jaehoon Kim / Rethinking Spatial Dimensions of Vision Transformers [[paper]](https://arxiv.org/abs/2103.16302)
+  * Jaehoon Kim / Rethinking Spatial Dimensions of Vision Transformers [[paper]](https://arxiv.org/abs/2103.16302)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210709/%5B20210709%5DRethinking%20Spatial%20Dimensions%20of%20Vision%20Transformers.pdf)
   * Jongkook Heo / Emerging Properties in Self-Supervised Vision Transformers [[paper]](https://arxiv.org/abs/2104.14294)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210709/%5B20210709%5DEmerging%20Properties%20in%20Self-Supervised%20Vision%20Transformer.pdf)
