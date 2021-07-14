@@ -43,4 +43,4 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-07-16
   * Yongwon Jo / Inpainting Transformer for Anomaly Detection [[paper]](https://arxiv.org/abs/2104.13897)
-  * Eunji Koh / Training Data-Efficient Image Transformers & Distillation through Attention [[paper]](http://proceedings.mlr.press/v139/touvron21a.html)
+  * Eunji Koh / Training Data-Efficient Image Transformers & Distillation through Attention [[paper]](http://proceedings.mlr.press/v139/touvron21a.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210716/%5B20210716%5DTraining%20data-efficient%20image%20transformers%20%26%20distillation%20through%20attention.pdf)
