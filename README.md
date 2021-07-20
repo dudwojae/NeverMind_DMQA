@@ -42,5 +42,9 @@ Key Summary and Description of Paper on Vision Transformer
   * Jongkook Heo / Emerging Properties in Self-Supervised Vision Transformers [[paper]](https://arxiv.org/abs/2104.14294)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210709/%5B20210709%5DEmerging%20Properties%20in%20Self-Supervised%20Vision%20Transformer.pdf)
 
 * 2021-07-16
-  * Yongwon Jo / Inpainting Transformer for Anomaly Detection [[paper]](https://arxiv.org/abs/2104.13897)
+  * Yongwon Jo / Inpainting Transformer for Anomaly Detection [[paper]](https://arxiv.org/abs/2104.13897)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210716/%5B20210716%5D%20Inpainting%20Tranformer%20for%20Anomaly%20Detection.pdf)
   * Eunji Koh / Training Data-Efficient Image Transformers & Distillation through Attention [[paper]](http://proceedings.mlr.press/v139/touvron21a.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210716/%5B20210716%5DTraining%20data-efficient%20image%20transformers%20%26%20distillation%20through%20attention.pdf)
+
+* 2021-07-23
+  * Jinhyeok Park / End-to-End Object Detection with Transformers [[paper]](https://arxiv.org/abs/2005.12872)
+  * Leekyung Yoo / Mlp-Mixer: An All-Mlp Architecture for Vision [[paper]](https://arxiv.org/abs/2105.01601)
