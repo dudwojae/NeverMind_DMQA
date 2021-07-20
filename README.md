@@ -48,3 +48,7 @@ Key Summary and Description of Paper on Vision Transformer
 * 2021-07-23
   * Jinhyeok Park / End-to-End Object Detection with Transformers [[paper]](https://arxiv.org/abs/2005.12872)
   * Leekyung Yoo / Mlp-Mixer: An All-Mlp Architecture for Vision [[paper]](https://arxiv.org/abs/2105.01601)
+
+* 2021-07-30
+  * Young Jae Lee / Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper]](https://arxiv.org/abs/2103.14030)
+  * Saerin Lim / SiT: Self-supervised vIsion Transformer [[paper]](https://arxiv.org/abs/2104.03602)
