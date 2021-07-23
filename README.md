@@ -46,7 +46,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Eunji Koh / Training Data-Efficient Image Transformers & Distillation through Attention [[paper]](http://proceedings.mlr.press/v139/touvron21a.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210716/%5B20210716%5DTraining%20data-efficient%20image%20transformers%20%26%20distillation%20through%20attention.pdf)
 
 * 2021-07-23
-  * Jinhyeok Park / End-to-End Object Detection with Transformers [[paper]](https://arxiv.org/abs/2005.12872)
+  * Jinhyeok Park / End-to-End Object Detection with Transformers [[paper]](https://arxiv.org/abs/2005.12872)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210723/%5B20210723%5DEnd%20to%20End%20Object%20Detection%20with%20Transformers.pdf)
   * Leekyung Yoo / Mlp-Mixer: An All-Mlp Architecture for Vision [[paper]](https://arxiv.org/abs/2105.01601)
 
 * 2021-07-30
