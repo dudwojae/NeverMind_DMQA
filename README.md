@@ -47,7 +47,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-07-23
   * Jinhyeok Park / End-to-End Object Detection with Transformers [[paper]](https://arxiv.org/abs/2005.12872)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210723/%5B20210723%5DEnd%20to%20End%20Object%20Detection%20with%20Transformers.pdf)
-  * Leekyung Yoo / Mlp-Mixer: An All-Mlp Architecture for Vision [[paper]](https://arxiv.org/abs/2105.01601)
+  * Leekyung Yoo / Mlp-Mixer: An All-Mlp Architecture for Vision [[paper]](https://arxiv.org/abs/2105.01601)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210723/%5B20210723%5DMLP-Mixer%20-%20An%20all-MLP%20Architecture%20for%20Vision.pdf)
 
 * 2021-07-30
   * Young Jae Lee / Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper]](https://arxiv.org/abs/2103.14030)
