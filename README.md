@@ -52,3 +52,15 @@ Key Summary and Description of Paper on Vision Transformer
 * 2021-08-06
   * Young Jae Lee / Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[paper]](https://arxiv.org/abs/2103.14030)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210806/%5B20210806%5DSwin%20Transformer%20-%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows.pdf)
   * Saerin Lim / SiT: Self-supervised vIsion Transformer [[paper]](https://arxiv.org/abs/2104.03602)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210806/%5B20210806%5DSiT%20-%20Self-supervised%20vision%20Transformer.pdf)
+
+* 2021-08-13
+  * Jaehoon Kim / Escaping the Big Data Paradigm with Compact Transformers [[paper]](https://arxiv.org/abs/2104.05704)
+  * Jongkook Heo / XCiT: Cross-Covariance Image Transformers [[paper]](https://arxiv.org/abs/2106.09681)
+
+* 2021-08-20
+  * Yongwon Jo
+  * Eunji Koh
+
+* 2021-08-27
+  * Jinhyeok Park
+  * Leekyung Yoo
