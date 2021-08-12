@@ -54,7 +54,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Saerin Lim / SiT: Self-supervised vIsion Transformer [[paper]](https://arxiv.org/abs/2104.03602)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210806/%5B20210806%5DSiT%20-%20Self-supervised%20vision%20Transformer.pdf)
 
 * 2021-08-13
-  * Jaehoon Kim / Escaping the Big Data Paradigm with Compact Transformers [[paper]](https://arxiv.org/abs/2104.05704)
+  * Jaehoon Kim / Efficient Self-supervised Vision Transformers for Representation Learning [[paper]](https://arxiv.org/abs/2106.09785)
   * Jongkook Heo / XCiT: Cross-Covariance Image Transformers [[paper]](https://arxiv.org/abs/2106.09681)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210813/%5B20210813%5D%20XCiT-%20Cross-Covariance%20Image%20Transformers.pdf)
 
 * 2021-08-20
