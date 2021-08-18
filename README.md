@@ -59,7 +59,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-08-20
   * Yongwon Jo
-  * Eunji Koh
+  * Eunji Koh / ViViT: A Video Vision Transformer [[paper]](https://arxiv.org/abs/2103.15691)
 
 * 2021-08-27
   * Jinhyeok Park
