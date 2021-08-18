@@ -58,7 +58,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Jongkook Heo / XCiT: Cross-Covariance Image Transformers [[paper]](https://arxiv.org/abs/2106.09681)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210813/%5B20210813%5D%20XCiT-%20Cross-Covariance%20Image%20Transformers.pdf)
 
 * 2021-08-20
-  * Yongwon Jo
+  * Yongwon Jo / When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [[paper]](https://arxiv.org/abs/2106.01548)
   * Eunji Koh / ViViT: A Video Vision Transformer [[paper]](https://arxiv.org/abs/2103.15691)
 
 * 2021-08-27
