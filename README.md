@@ -59,7 +59,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-08-20
   * Yongwon Jo / When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [[paper]](https://arxiv.org/abs/2106.01548)
-  * Eunji Koh / ViViT: A Video Vision Transformer [[paper]](https://arxiv.org/abs/2103.15691)
+  * Eunji Koh / ViViT: A Video Vision Transformer [[paper]](https://arxiv.org/abs/2103.15691)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210820/%5B20210820%5DViViT_A%20Video%20Vision%20Transformer.pdf)
 
 * 2021-08-27
   * Jinhyeok Park
