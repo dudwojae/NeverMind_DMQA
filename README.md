@@ -63,4 +63,4 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-08-27
   * Jinhyeok Park
-  * Leekyung Yoo
+  * Leekyung Yoo / CvT: Introducing Convolutions to Vision Transformers [[paper]](https://arxiv.org/abs/2103.15808)
