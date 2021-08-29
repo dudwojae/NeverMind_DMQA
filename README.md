@@ -62,7 +62,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Eunji Koh / ViViT: A Video Vision Transformer [[paper]](https://arxiv.org/abs/2103.15691)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210820/%5B20210820%5DViViT_A%20Video%20Vision%20Transformer.pdf)
 
 * 2021-08-27
-  * Jinhyeok Park / MOTR: End-to-End Multiple-Object Tracking with TRansformer [[paper]](https://arxiv.org/abs/2105.03247)
+  * Jinhyeok Park / MOTR: End-to-End Multiple-Object Tracking with TRansformer [[paper]](https://arxiv.org/abs/2105.03247)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210827/%5B20210827%5DMOTR%20-%20End-to-End%20Multiple-Object%20Tracking%20with%20TRansformer.pdf)
   * Leekyung Yoo / CvT: Introducing Convolutions to Vision Transformers [[paper]](https://arxiv.org/abs/2103.15808)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210827/%5B20210827%5DCvT%20-%20Introducing%20Convolutions%20to%20Vision%20Transformers.pdf)
 
 * 2021-09-10
