@@ -67,4 +67,4 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-09-10
   * Young Jae Lee / Self-Supervised Learning with Swin Transformers [[paper]](https://arxiv.org/abs/2105.04553)
-  * Saerin Lim / 
+  * Saerin Lim / PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper]](https://arxiv.org/abs/2108.03428)
