@@ -66,7 +66,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Leekyung Yoo / CvT: Introducing Convolutions to Vision Transformers [[paper]](https://arxiv.org/abs/2103.15808)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210827/%5B20210827%5DCvT%20-%20Introducing%20Convolutions%20to%20Vision%20Transformers.pdf)
 
 * 2021-09-10
-  * Young Jae Lee / Self-Supervised Learning with Swin Transformers [[paper]](https://arxiv.org/abs/2105.04553)
+  * Young Jae Lee / Self-Supervised Learning with Swin Transformers [[paper]](https://arxiv.org/abs/2105.04553)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210910/%5B20210910%5DSelf-Supervised%20Learning%20with%20Swin%20Transformers.pdf)
   * Saerin Lim / PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper]](https://arxiv.org/abs/2108.03428)
 
 * 2021-09-17
