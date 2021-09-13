@@ -67,7 +67,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-09-10
   * Young Jae Lee / Self-Supervised Learning with Swin Transformers [[paper]](https://arxiv.org/abs/2105.04553)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210910/%5B20210910%5DSelf-Supervised%20Learning%20with%20Swin%20Transformers.pdf)
-  * Saerin Lim / PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper]](https://arxiv.org/abs/2108.03428)
+  * Saerin Lim / PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper]](https://arxiv.org/abs/2108.03428)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210910/%5B20210910%5DPSViT%20Better%20Vision%20Transformer%20via%20Token%20Pooling%20and%20Attention%20Sharing.pdf)
 
 * 2021-09-17
   * Jaehoon Kim / 
