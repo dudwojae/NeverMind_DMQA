@@ -71,7 +71,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-09-17
   * Jaehoon Kim / Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper]](https://arxiv.org/abs/2107.00641)
-  * Jongkook Heo / Going deeper with Image Transformers [[paper]](https://arxiv.org/abs/2103.17239)
+  * Jongkook Heo / Going deeper with Image Transformers [[paper]](https://arxiv.org/abs/2103.17239)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210917/%5B20210917%5DCaiT-%20Going%20deeper%20with%20Image%20Transformers.pdf)
 
 * 2021-09-24
   * Yongwon Jo /
