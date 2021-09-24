@@ -70,7 +70,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Saerin Lim / PSViT: Better Vision Transformer via Token Pooling and Attention Sharing [[paper]](https://arxiv.org/abs/2108.03428)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210910/%5B20210910%5DPSViT%20Better%20Vision%20Transformer%20via%20Token%20Pooling%20and%20Attention%20Sharing.pdf)
 
 * 2021-09-17
-  * Jaehoon Kim / Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper]](https://arxiv.org/abs/2107.00641)
+  * Jaehoon Kim / Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper]](https://arxiv.org/abs/2107.00641)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210917/%5B20210917%5DFocal%20Self-attention%20for%20Local-Global%20Interactions%20in%20Vision%20Transformers.pdf)
   * Jongkook Heo / Going deeper with Image Transformers [[paper]](https://arxiv.org/abs/2103.17239)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210917/%5B20210917%5DCaiT-%20Going%20deeper%20with%20Image%20Transformers.pdf)
 
 * 2021-09-24
