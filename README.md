@@ -74,8 +74,8 @@ Key Summary and Description of Paper on Vision Transformer
   * Jongkook Heo / Going deeper with Image Transformers [[paper]](https://arxiv.org/abs/2103.17239)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210917/%5B20210917%5DCaiT-%20Going%20deeper%20with%20Image%20Transformers.pdf)
 
 * 2021-09-24
-  * Yongwon Jo /
-  * Eunji Koh /
+  * Yongwon Jo / Skeletor: Skeletal Transformers for Robust Body-Pose Estimation [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Jiang_Skeletor_Skeletal_Transformers_for_Robust_Body-Pose_Estimation_CVPRW_2021_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210924/%5B20210924%5DSkeletor%3DSkeletal%20Transformers%20for%20Robust%20Body-Pose%20Estimation.pdf)
+  * Eunji Koh / How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[paper]](https://arxiv.org/abs/2106.10270)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210924/%5B20210924%5DHow%20to%20train%20your%20ViT.%20Data%2C%20Augmentation%2C%20and%20Regularization%20in%20Vision%20Transformers.pdf)
 
 * 2021-10-01
   * Jinhyeok Park /
