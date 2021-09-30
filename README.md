@@ -80,3 +80,19 @@ Key Summary and Description of Paper on Vision Transformer
 * 2021-10-01
   * Jinhyeok Park /Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.html)
   * Leekyung Yoo / CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper]](https://arxiv.org/abs/2103.14899)
+
+* 2021-10-15
+  * Young Jae Lee / 
+  * Saerin Lim /
+
+* 2021-10-22
+  * Jaehoon Kim /
+  * Jongkook Heo /
+
+* 2021-10-29
+  * Yongwon Jo / 
+  * Eunji Koh /
+
+* 2021-11-05
+  * Jinhyeok Park /
+  * Leekyung Yoo /
