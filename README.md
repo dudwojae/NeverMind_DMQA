@@ -78,8 +78,8 @@ Key Summary and Description of Paper on Vision Transformer
   * Eunji Koh / How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [[paper]](https://arxiv.org/abs/2106.10270)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20210924/%5B20210924%5DHow%20to%20train%20your%20ViT.%20Data%2C%20Augmentation%2C%20and%20Regularization%20in%20Vision%20Transformers.pdf)
 
 * 2021-10-01
-  * Jinhyeok Park / Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.html)
-  * Leekyung Yoo / CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper]](https://arxiv.org/abs/2103.14899)
+  * Jinhyeok Park / Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211001/%5B20211001%5DMulti-Modal%20Fusion%20Transformer%20for%20End-to-End%20Autonomous%20Driving.pdf)
+  * Leekyung Yoo / CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper]](https://arxiv.org/abs/2103.14899)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211001/%5B20211001%5DCrossViT%20-%20Cross-Attention%20Multi-Scale%20Vision%20Transformer%20for%20Image%20Classification.pdf)
 
 * 2021-10-15
   * Young Jae Lee / 
