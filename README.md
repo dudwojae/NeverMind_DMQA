@@ -82,8 +82,8 @@ Key Summary and Description of Paper on Vision Transformer
   * Leekyung Yoo / CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper]](https://arxiv.org/abs/2103.14899)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211001/%5B20211001%5DCrossViT%20-%20Cross-Attention%20Multi-Scale%20Vision%20Transformer%20for%20Image%20Classification.pdf)
 
 * 2021-10-29
-  * Young Jae Lee / 
-  * Saerin Lim /
+  * Young Jae Lee / UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper]](https://arxiv.org/abs/2109.14382)
+  * Saerin Lim / PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gu_PIT_Position-Invariant_Transform_for_Cross-FoV_Domain_Adaptation_ICCV_2021_paper.html)
 
 * 2021-11-05
   * Jaehoon Kim /
