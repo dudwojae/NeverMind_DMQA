@@ -83,7 +83,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-10-29
   * Young Jae Lee / UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper]](https://arxiv.org/abs/2109.14382)
-  * Saerin Lim / ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[paper]](https://arxiv.org/abs/2102.03334)
+  * Saerin Lim / ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[paper]](https://arxiv.org/abs/2102.03334)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211105/%5B20211105%5DViLT%20Vision-and-Language%20Transformer%20Without%20Convolution%20or%20Region%20Supervision.pdf)
 
 * 2021-11-05
   * Jaehoon Kim /
