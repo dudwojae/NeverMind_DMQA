@@ -83,7 +83,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-10-29
   * Young Jae Lee / UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper]](https://arxiv.org/abs/2109.14382)
-  * Saerin Lim / PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Gu_PIT_Position-Invariant_Transform_for_Cross-FoV_Domain_Adaptation_ICCV_2021_paper.html)
+  * Saerin Lim / ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[paper]](https://arxiv.org/abs/2102.03334)
 
 * 2021-11-05
   * Jaehoon Kim /
