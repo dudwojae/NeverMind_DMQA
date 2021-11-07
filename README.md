@@ -82,7 +82,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Leekyung Yoo / CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [[paper]](https://arxiv.org/abs/2103.14899)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211001/%5B20211001%5DCrossViT%20-%20Cross-Attention%20Multi-Scale%20Vision%20Transformer%20for%20Image%20Classification.pdf)
 
 * 2021-10-29
-  * Young Jae Lee / UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper]](https://arxiv.org/abs/2109.14382)
+  * Young Jae Lee / UFO-ViT: High Performance Linear Vision Transformer without Softmax [[paper]](https://arxiv.org/abs/2109.14382)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211105/%5B20211105%5DUFO-ViT%20-%20High%20Performance%20Linear%20Vision%20Transformer%20without%20Softmax.pdf)
   * Saerin Lim / ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[paper]](https://arxiv.org/abs/2102.03334)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211105/%5B20211105%5DViLT%20Vision-and-Language%20Transformer%20Without%20Convolution%20or%20Region%20Supervision.pdf)
 
 * 2021-11-05
