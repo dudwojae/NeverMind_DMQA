@@ -87,7 +87,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-11-12
   * Jaehoon Kim /
-  * Jongkook Heo /
+  * Jongkook Heo / ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training [[paper]](https://arxiv.org/abs/2105.03404)
 
 * 2021-11-19
   * Yongwon Jo / 
