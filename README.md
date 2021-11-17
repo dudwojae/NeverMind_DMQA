@@ -87,7 +87,7 @@ Key Summary and Description of Paper on Vision Transformer
 
 * 2021-11-12
   * Jaehoon Kim /
-  * Jongkook Heo / ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training [[paper]](https://arxiv.org/abs/2105.03404)
+  * Jongkook Heo / ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training [[paper]](https://arxiv.org/abs/2105.03404)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211112/%5B20211112%5DResMLP-Feedforward%20networks%20for%20image%20classification%20with%20data-efficient%20training.pdf)
 
 * 2021-11-19
   * Yongwon Jo / 
