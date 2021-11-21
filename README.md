@@ -86,7 +86,7 @@ Key Summary and Description of Paper on Vision Transformer
   * Saerin Lim / ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[paper]](https://arxiv.org/abs/2102.03334)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211105/%5B20211105%5DViLT%20Vision-and-Language%20Transformer%20Without%20Convolution%20or%20Region%20Supervision.pdf)
 
 * 2021-11-12
-  * Jaehoon Kim /
+  * Jaehoon Kim /VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text [[paper]](https://arxiv.org/abs/2104.11178)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211112/%5B20211112%5DVATT%20-%20Transformers%20for%20Multimodal%20Self-Supervised%20Learning%20from%20Raw%20Video%2C%20Audio%20and%20Text.pdf)
   * Jongkook Heo / ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training [[paper]](https://arxiv.org/abs/2105.03404)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211112/%5B20211112%5DResMLP-Feedforward%20networks%20for%20image%20classification%20with%20data-efficient%20training.pdf)
 
 * 2021-11-19
