@@ -90,8 +90,8 @@ Key Summary and Description of Paper on Vision Transformer
   * Jongkook Heo / ResMLP: Feedforward Networks for Image Classification with Data-Efficient Training [[paper]](https://arxiv.org/abs/2105.03404)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211112/%5B20211112%5DResMLP-Feedforward%20networks%20for%20image%20classification%20with%20data-efficient%20training.pdf)
 
 * 2021-11-19
-  * Yongwon Jo / 
-  * Eunji Koh /
+  * Yongwon Jo / Panoptic SegFormer [[paper]](https://arxiv.org/abs/2109.03814)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211119/%5B20211119%5DPanoptic%20SegFormer.pdf)
+  * Eunji Koh / Masekd Autoencoders Are Scalable Vision Learners [[paper]](https://arxiv.org/abs/2111.06377)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211119/%5B20211119%5DMasked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf)
 
 * 2021-11-26
   * Jinhyeok Park /
