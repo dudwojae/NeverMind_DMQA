@@ -94,5 +94,5 @@ Key Summary and Description of Paper on Vision Transformer
   * Eunji Koh / Masekd Autoencoders Are Scalable Vision Learners [[paper]](https://arxiv.org/abs/2111.06377)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211119/%5B20211119%5DMasked%20Autoencoders%20Are%20Scalable%20Vision%20Learners.pdf)
 
 * 2021-11-26
-  * Jinhyeok Park /
-  * Leekyung Yoo /
+  * Jinhyeok Park / End-to-End Human Pose and Mesh Reconstruction with Transformers [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211126/%5B20211126%5DEnd-to-End%20Human%20Pose%20and%20Mesh%20Reconstruction%20with%20Transformers.pdf)
+  * Leekyung Yoo / Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[paper]](https://arxiv.org/abs/2101.11986)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/VisionTransformer/20211126/%5B20211126%5DTokens-to-Token%20ViT%20-%20Training%20Vision%20Transformers%20from%20Scratch%20on%20ImageNet.pdf)
