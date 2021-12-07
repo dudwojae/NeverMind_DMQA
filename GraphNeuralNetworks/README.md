@@ -19,5 +19,8 @@ Key Summary and Description of Paper on Graph Neural Networks
 
 * 2021-01-14
   * Jinsoo Bae /
-  * Hansam Cho /
   * Sangmin Kim /
+
+* 2021-01-21
+  * Hansam Cho / 
+  * Jungin Kim / 
