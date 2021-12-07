@@ -17,10 +17,10 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Jinhyeok Park /
   * Leekyung Yoo /
 
-* 2021-01-14
+* 2022-01-14
   * Jinsoo Bae /
   * Sangmin Kim /
 
-* 2021-01-21
+* 2022-01-21
   * Hansam Cho / 
   * Jungin Kim / 
