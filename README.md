@@ -7,10 +7,10 @@ The member consists of 11 researchers belonging to the Data Mining & Quality Ana
 
 ## Vision Transformer
 * Young Jae Lee
-  * Ph.D. Student / Email: jae601@korea.ac.kr
+  * Ph.D. Candidate / Email: jae601@korea.ac.kr
   
 * Yongwon Jo
-  * Ph.D. Student / Email: gyj4318@korea.ac.kr
+  * Ph.D. Candidate / Email: gyj4318@korea.ac.kr
   
 * Jinhyeok Park
   * Ph.D. Student / Email: vc2013@korea.ac.kr
@@ -32,10 +32,10 @@ The member consists of 11 researchers belonging to the Data Mining & Quality Ana
 
 ## Graph Neural Networks
 * Young Jae Lee
-  * Ph.D. Student / Email: jae601@korea.ac.kr
+  * Ph.D. Candidate / Email: jae601@korea.ac.kr
   
 * Yongwon Jo
-  * Ph.D. Student / Email: gyj4318@korea.ac.kr
+  * Ph.D. Candidate / Email: gyj4318@korea.ac.kr
   
 * Jinhyeok Park
   * Ph.D. Student / Email: vc2013@korea.ac.kr
@@ -63,3 +63,6 @@ The member consists of 11 researchers belonging to the Data Mining & Quality Ana
  
 * Sangmin Kim
   * M.S. Student / Email: sanmiz@korea.ac.kr
+
+* Jungin Kim
+  * M.S. Student / Email: jungin_kim23@korea.ac.kr
