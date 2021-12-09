@@ -31,6 +31,9 @@ The member consists of 11 researchers belonging to the Data Mining & Quality Ana
   * M.S. Student / Email: ylk0801@korea.ac.kr
 
 ## Graph Neural Networks
+* Insung Baek
+  * Ph. D. Candidate / Email: insung_baek01@korea.ac.kr
+
 * Young Jae Lee
   * Ph.D. Candidate / Email: jae601@korea.ac.kr
   
