@@ -2,8 +2,8 @@
 Key Summary and Description of Paper on Graph Neural Networks
 
 * 2022-01-14
-  * Young Jae Lee /
-  * Saerin Lim / 
+  * Young Jae Lee / Semi-Supervised Classification with Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1609.02907)[[presentation]]()
+  * Saerin Lim / Spectral Networks and Deep Locally Connected Networks on Graphs [[paper]](https://arxiv.org/abs/1312.6203)[[presentation]]()
 
 * 2022-01-21
   * Jaehoon Kim /
