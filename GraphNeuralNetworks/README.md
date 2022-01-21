@@ -7,7 +7,7 @@ Key Summary and Description of Paper on Graph Neural Networks
 
 * 2022-01-21
   * Jaehoon Kim / Inductive Representation Learning on Large Graphs [[paper]](https://proceedings.neurips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)
-  * Jongkook Heo /
+  * Jongkook Heo / Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering [[paper]](https://proceedings.neurips.cc/paper/2016/hash/04df4d434d481c5bb723be1b6df1ee65-Abstract.html)
 
 * 2022-01-28
   * Yongwon Jo /
