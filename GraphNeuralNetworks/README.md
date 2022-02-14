@@ -18,8 +18,8 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Leekyung Yoo / How Powerful are Graph Neural Networks [[paper]](https://arxiv.org/abs/1810.00826)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220204/%5B20220204%5DHow%20Powerful%20Are%20Graph%20Neural%20Networks.pdf)
 
 * 2022-02-11
-  * Jinsoo Bae /
-  * Sangmin Kim /
+  * Jinsoo Bae / Strategies for Pre-training Graph Neural Networks [[paper]](https://arxiv.org/abs/1905.12265)
+  * Sangmin Kim / Simplifying Graph Convolutional Networks [[paper]](https://proceedings.mlr.press/v97/wu19e.html)
 
 * 2022-02-18
   * Insung Baek / 
