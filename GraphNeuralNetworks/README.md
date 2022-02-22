@@ -22,9 +22,9 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Sangmin Kim / Simplifying Graph Convolutional Networks [[paper]](https://proceedings.mlr.press/v97/wu19e.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220211/%5B20220211%5DSimplifying%20Graph%20Convolutional%20Networks.pdf)
 
 * 2022-02-18
-  * Insung Baek / Signed Graph Convolutional Network [[paper]](https://ieeexplore.ieee.org/abstract/document/8594922/)
-  * Hansam Cho / Gated Graph Sequence Neural Networks [[paper]](https://arxiv.org/abs/1511.05493)
-  * Jungin Kim / FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Verma_FeaStNet_Feature-Steered_Graph_CVPR_2018_paper.html)
+  * Insung Baek / Signed Graph Convolutional Network [[paper]](https://ieeexplore.ieee.org/abstract/document/8594922/)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220218/%5B20220218%5DSigned%20Graph%20Convolutional%20Network.pdf)
+  * Hansam Cho / Gated Graph Sequence Neural Networks [[paper]](https://arxiv.org/abs/1511.05493)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220218/%5B20220218%5DGated%20Graph%20Sequence%20Neural%20Networks.pdf)
+  * Jungin Kim / FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Verma_FeaStNet_Feature-Steered_Graph_CVPR_2018_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220218/%5B20220218%5DFeaStNet_Feature-Steered%20Graph%20Convolutions%20for%203D%20Shape%20Analysis.pdf)
 
 * 2022-03-04
   * Young Jae Lee /
