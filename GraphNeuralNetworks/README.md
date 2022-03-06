@@ -27,8 +27,8 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Jungin Kim / FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Verma_FeaStNet_Feature-Steered_Graph_CVPR_2018_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220218/%5B20220218%5DFeaStNet_Feature-Steered%20Graph%20Convolutions%20for%203D%20Shape%20Analysis.pdf)
 
 * 2022-03-04
-  * Young Jae Lee /
-  * Saerin Lim /
+  * Young Jae Lee / MolCLR: Molecular Contrastive Learning of Representations via Graph Neural Networks [[paper]](https://arxiv.org/abs/2102.10056)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220304/%5B20220304%5DMolecular%20Contrastive%20Learning%20of%20Representations%20via%20Graph%20Neural%20Networks.pdf)
+  * Saerin Lim / Large-Scale Learnable Graph Convolutional Networks [[paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3219947)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220304/%5B20220304%5DLarge-Scale%20Learnable%20Graph%20Convolutional%20Networks.pdf)
 
 * 2022-03-11
   * Jaehoon Kim /
