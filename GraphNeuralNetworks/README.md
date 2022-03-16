@@ -31,8 +31,8 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Saerin Lim / Large-Scale Learnable Graph Convolutional Networks [[paper]](https://dl.acm.org/doi/abs/10.1145/3219819.3219947)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220304/%5B20220304%5DLarge-Scale%20Learnable%20Graph%20Convolutional%20Networks.pdf)
 
 * 2022-03-11
-  * Jaehoon Kim /
-  * Jongkook Heo /
+  * Jaehoon Kim / Graph Contrastive Learning with Augmentations [[paper]](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220311/%5B20220311%5DGraph%20contrastive%20learning%20with%20augmentations.pdf)
+  * Jongkook Heo / Learning Deep Generative Models of Graphs [[paper]](https://arxiv.org/abs/1803.03324)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220311/%5B20220311%5DLearning%20Deep%20Generative%20Models%20of%20Graphs.pdf)
 
 * 2022-03-18
   * Yongwon Jo /
