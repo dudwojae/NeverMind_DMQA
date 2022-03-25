@@ -35,8 +35,8 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Jongkook Heo / Learning Deep Generative Models of Graphs [[paper]](https://arxiv.org/abs/1803.03324)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220311/%5B20220311%5DLearning%20Deep%20Generative%20Models%20of%20Graphs.pdf)
 
 * 2022-03-18
-  * Yongwon Jo /
-  * Eunji Koh /
+  * Yongwon Jo / Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Two-Stream_Adaptive_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220318/%5B20220318%5DTwo-Stream%20Adaptive%20Graph%20Convolutional%20Networks%20for%20Skeleton-based%20HAR.pdf)
+  * Eunji Koh / Graph Random Neural Networks for Semi-Supervised Learning on Graphs [[paper]](https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220318/%5B20220318%5DGraph%20Random%20Neural%20Networks%20for%20Semi-Supervised%20Learning%20on%20Graphs.pdf)
 
 * 2022-03-25
   * Jinhyeok Park /
