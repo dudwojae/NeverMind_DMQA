@@ -44,7 +44,7 @@ Key Summary and Description of Paper on Graph Neural Networks
 
 * 2022-04-01
   * Jinsoo Bae /
-  * Sangmin Kim /
+  * Sangmin Kim / Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://proceedings.neurips.cc/paper/2021/hash/eb55e369affa90f77dd7dc9e2cd33b16-Abstract.html)
 
 * 2022-04-08
   * Insung Baek /
