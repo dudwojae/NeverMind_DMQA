@@ -40,7 +40,7 @@ Key Summary and Description of Paper on Graph Neural Networks
 
 * 2022-03-25
   * Jinhyeok Park /
-  * Leekyung Yoo /
+  * Leekyung Yoo / GNNExplainer: Generating Explanations for Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220325/%5B20220325%5DGNNExplainer_Generating%20Explanations%20for%20Graph%20Neural%20Networks.pdf)
 
 * 2022-04-01
   * Jinsoo Bae /
