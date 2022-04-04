@@ -43,7 +43,7 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Leekyung Yoo / GNNExplainer: Generating Explanations for Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220325/%5B20220325%5DGNNExplainer_Generating%20Explanations%20for%20Graph%20Neural%20Networks.pdf)
 
 * 2022-04-01
-  * Jinsoo Bae /
+  * Jinsoo Bae / Modeling Relational Data with Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1703.06103)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220401/%5B20220401%5DModeling%20Relational%20Data%20With%20Graph%20Convolutional%20Networks.pdf)
   * Sangmin Kim / Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://proceedings.neurips.cc/paper/2021/hash/eb55e369affa90f77dd7dc9e2cd33b16-Abstract.html)
 
 * 2022-04-08
