@@ -44,9 +44,9 @@ Key Summary and Description of Paper on Graph Neural Networks
 
 * 2022-04-01
   * Jinsoo Bae / Modeling Relational Data with Graph Convolutional Networks [[paper]](https://arxiv.org/abs/1703.06103)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220401/%5B20220401%5DModeling%20Relational%20Data%20With%20Graph%20Convolutional%20Networks.pdf)
-  * Sangmin Kim / Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://proceedings.neurips.cc/paper/2021/hash/eb55e369affa90f77dd7dc9e2cd33b16-Abstract.html)
+  * Sangmin Kim / Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data [[paper]](https://proceedings.neurips.cc/paper/2021/hash/eb55e369affa90f77dd7dc9e2cd33b16-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220401/%5B20220401%5DShift-Robust%20GNNs%20Overcoming%20the%20Limitations%20of%20Localized%20Graph%20Training%20Data.pdf)
 
 * 2022-04-08
   * Insung Baek /
   * Hansam Cho /
-  * Jungin Kim /
+  * Jungin Kim / How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision [[paper]](https://openreview.net/forum?id=Wi5KUNlqWty)
