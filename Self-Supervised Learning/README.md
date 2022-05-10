@@ -6,8 +6,8 @@ Key Summary and Description of Paper on Self-Supervised Learning
   * Hyeonji Kim / Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[paper]](https://openreview.net/forum?id=rkZG6Kbd-B)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220429/%5B20220429%5DUnsupervised%20Learning%20of%20Visual%20Representations%20by%20Solving%20Jigsaw%20Puzzles%20(ECCV%202016).pdf)
   
 * 2022-05-06
-  * Yongwon Jo / 
-  * Jinyong Jeong / 
+  * Yongwon Jo / Unsupervised Representation Learning by Predicting Image Rotations [[paper]](https://openreview.net/forum?id=S1v4N2l0-)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220506/%5B20220506%5DUnsupervised%20Representation%20Learning%20by%20Predicting%20Image%20Rotation.pdf)
+  * Jinyong Jeong / Colorful Image Colorization [[paper]](https://openreview.net/forum?id=SJelOQCq)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220506/%5B20220506%5DColorful%20Image%20Colorization.pdf)
 
 * 2022-05-13
   * Eunji Koh / 
