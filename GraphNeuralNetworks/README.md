@@ -39,7 +39,7 @@ Key Summary and Description of Paper on Graph Neural Networks
   * Eunji Koh / Graph Random Neural Networks for Semi-Supervised Learning on Graphs [[paper]](https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220318/%5B20220318%5DGraph%20Random%20Neural%20Networks%20for%20Semi-Supervised%20Learning%20on%20Graphs.pdf)
 
 * 2022-03-25
-  * Jinhyeok Park /
+  * Jinhyeok Park / Graph Convolutional Matrix Completion [[paper]](https://arxiv.org/abs/1706.02263)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220325/%5B20220325%5DGraph%20Convolutional%20Matrix%20Completion.pdf)
   * Leekyung Yoo / GNNExplainer: Generating Explanations for Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/GraphNeuralNetworks/20220325/%5B20220325%5DGNNExplainer_Generating%20Explanations%20for%20Graph%20Neural%20Networks.pdf)
 
 * 2022-04-01
