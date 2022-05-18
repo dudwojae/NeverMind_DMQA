@@ -10,7 +10,7 @@ Key Summary and Description of Paper on Self-Supervised Learning
   * Jinyong Jeong / Colorful Image Colorization [[paper]](https://openreview.net/forum?id=SJelOQCq)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220506/%5B20220506%5DColorful%20Image%20Colorization.pdf)
 
 * 2022-05-13
-  * Eunji Koh / Unsupervised Feature Learning via Non-Parametric Instance Discrimination [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.html)[[presentation]]
+  * Eunji Koh / Unsupervised Feature Learning via Non-Parametric Instance Discrimination [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220513/%5B20220513%5DUnsupervised%20Feature%20Learning%20via%20Non-Parametric%20Instance%20Discrimination.pdf)
   * Sangmin Kim / Representation Learning with Contrastive Predictive Coding [[paper]](https://ui.adsabs.harvard.edu/abs/2018arXiv180703748V/abstract)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220513/%5B20220513%5DRepresentation%20Learning%20with%20Contrastive%20Predictive%20Coding.pdf)
 
 * 2022-05-20
