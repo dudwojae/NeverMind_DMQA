@@ -14,12 +14,12 @@ Key Summary and Description of Paper on Self-Supervised Learning
   * Sangmin Kim / Representation Learning with Contrastive Predictive Coding [[paper]](https://ui.adsabs.harvard.edu/abs/2018arXiv180703748V/abstract)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220513/%5B20220513%5DRepresentation%20Learning%20with%20Contrastive%20Predictive%20Coding.pdf)
 
 * 2022-05-20
-  * Leekyung yoo /
-  * Jongkook Heo / 
+  * Leekyung yoo / Momentum Contrast for Unsupervised Visual Representation Learning [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220520/%5B20220520%5DMomentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf)
+  * Jongkook Heo / Self-Supervised Learning of Pretext-Invariant Representations [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220520/%5B20220520%5DSelf-Supervised%20Learning%20of%20Pretext-Invariant%20Representations.pdf)
 
 * 2022-05-27
-  * Insung Baek / 
-  * Goeun Chae /
+  * Insung Baek / A Simple Framework for Contrastive Learning of Visual Representations [[paper]](http://proceedings.mlr.press/v119/chen20j.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220527/%5B20220527%5DA%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representation(SimCLR).pdf)
+  * Goeun Chae / Supervised Contrastive Learning [[paper]](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220527/%5B20220527%5DSupervised%20Contrastive%20Learning.pdf)
 
 * 2022-06-03
   * Hansam Cho / 
