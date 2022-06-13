@@ -22,13 +22,13 @@ Key Summary and Description of Paper on Self-Supervised Learning
   * Goeun Chae / Supervised Contrastive Learning [[paper]](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220527/%5B20220527%5DSupervised%20Contrastive%20Learning.pdf)
 
 * 2022-06-03
-  * Hansam Cho / 
-  * Jinsoo Bae / 
+  * Hansam Cho / Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning [[paper]](https://proceedings.neurips.cc/paper/2020/hash/f3ada80d5c4ee70142b17b8192b2958e-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220603/%5B20220603%5DBootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self-Supervised%20Learning.pdf)
+  * Jinsoo Bae / Boosting Contrastive Self-Supervised Learning With False Negative Cancellation [[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220603/%5B20220603%5DBoosting%20Contrastive%20Self-Supervised%20Learning%20with%20False%20Negative%20Cancellation.pdf)
 
 * 2022-06-10
   * Jungin Kim /
-  * Saerin Lim / 
-
+  * Saerin Lim / Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](http://proceedings.mlr.press/v119/wang20k.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220610/%5B20220610%5DUnderstanding%20Contrastive%20Representation%20Learning%20through%20Alignment%20and%20Uniformity%20on%20the%20Hypersphere.pdf)
+  
 * 2022-06-17
   * Young Jae Lee /
   * Jaehoon Kim / 
