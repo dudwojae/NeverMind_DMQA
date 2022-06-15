@@ -26,7 +26,7 @@ Key Summary and Description of Paper on Self-Supervised Learning
   * Jinsoo Bae / Boosting Contrastive Self-Supervised Learning With False Negative Cancellation [[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220603/%5B20220603%5DBoosting%20Contrastive%20Self-Supervised%20Learning%20with%20False%20Negative%20Cancellation.pdf)
 
 * 2022-06-10
-  * Jungin Kim /
+  * Jungin Kim / Prototypical Contrastive Learning of Unsupervised Representation [[paper]](https://arxiv.org/abs/2005.04966)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220610/%5B20220610%5DPrototypical%20Contrastive%20Learning%20of%20Unsupervised%20Representations.pdf)
   * Saerin Lim / Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](http://proceedings.mlr.press/v119/wang20k.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Self-Supervised%20Learning/20220610/%5B20220610%5DUnderstanding%20Contrastive%20Representation%20Learning%20through%20Alignment%20and%20Uniformity%20on%20the%20Hypersphere.pdf)
   
 * 2022-06-17
