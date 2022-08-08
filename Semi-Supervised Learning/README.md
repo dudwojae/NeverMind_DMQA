@@ -2,8 +2,8 @@
 Key Summary and Description of Paper on Semi-Supervised Learning
 
 * 2022-08-05
-  * Jihyun Kim / 
-  * Hyeonji Kim / 
+  * Jihyun Kim / Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning [[paper]](https://proceedings.neurips.cc/paper/2016/hash/30ef30b64204a3088a26bc2e6ecf7602-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220805/%5B20220805%5DRegularization_With_Stochastic_Transformations_and_Perturbations_for_Deep_Semi_Supervised_Learning%20(NeurIPS%202016).pdf)
+  * Hyeonji Kim / Temporal Ensembling for Semi-Supervised Learning [[paper]](https://arxiv.org/abs/1610.02242)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220805/%5B20220805%5DTemporal%20Ensembling%20for%20Semi-Supervised%20Learning%20(ICLR%202017).pdf)
   
 * 2022-08-12
   * Yongwon Jo / 
