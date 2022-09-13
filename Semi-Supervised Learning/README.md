@@ -6,7 +6,7 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Hyeonji Kim / Temporal Ensembling for Semi-Supervised Learning [[paper]](https://arxiv.org/abs/1610.02242)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220805/%5B20220805%5DTemporal%20Ensembling%20for%20Semi-Supervised%20Learning%20(ICLR%202017).pdf)
   
 * 2022-08-12
-  * Yongwon Jo / 
+  * Yongwon Jo / Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning [[paper]](https://ieeexplore.ieee.org/abstract/document/8417973)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220812/%5B20220812%5DVirtual%20Adversarial%20Training.pdf)
   * Jinyong Jeong / Mean Teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[paper]](https://proceedings.neurips.cc/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220812/%5B20220812%5DMean%20teachers%20are%20better%20role%20models%20-%20Weight-averaged%20consistency%20targets%20improve%20semi-supervised%20deep%20learning%20results%20(NeurIPS%202017).pdf)
 
 * 2022-08-19
