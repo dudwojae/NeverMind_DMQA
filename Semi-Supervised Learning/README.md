@@ -14,8 +14,8 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Sangmin Kim / MixMatch: A Holistic Approach to Semi-Supervised Learning [[paper]](https://proceedings.neurips.cc/paper/2019/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220819/%5B20220819%5D%20MixMatch-A%20Holistic%20Approach%20to%20Semi-Supervised%20Learning.pdf)
 
 * 2022-08-26
-  * Leekyung yoo / 
-  * Jongkook Heo / 
+  * Leekyung yoo / FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[paper]](https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220826/%5B20220826%5D%20FixMatch-Simplifying%20Semi-Supervised%20Learning%20with%20Consistency%20and%20Confidence.pdf)
+  * Jongkook Heo / ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[paper]](https://arxiv.org/abs/1911.09785)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220826/%5B20220826%5DReMixMatch-Semi%20Supervised%20Learning%20with%20Distribution%20Alignment%20and%20Augmentation%20Anchoring.pdf)
 
 * 2022-09-02
   * Insung Baek / 
