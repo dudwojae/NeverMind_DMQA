@@ -18,8 +18,8 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Jongkook Heo / ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[paper]](https://arxiv.org/abs/1911.09785)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220826/%5B20220826%5DReMixMatch-Semi%20Supervised%20Learning%20with%20Distribution%20Alignment%20and%20Augmentation%20Anchoring.pdf)
 
 * 2022-09-23
-  * Insung Baek / 
-  * Goeun Chae / 
+  * Insung Baek / Semi-Supervised Learning under Class Distribution Mismatch [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5763)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220923/%5B20220923%5DSemi-supervised%20learning%20under%20class%20distribution%20mismatch.pdf)
+  * Goeun Chae / Realistic Evaluation of Deep Semi-Supervised Learning Algorithms [[paper]](https://proceedings.neurips.cc/paper/2018/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220923/%5B20220923%5DRealistic%20Evaluation%20of%20Deep%20Semi-Supervised%20Learning%20Algorithms.pdf)
   
 * 2022-09-30
   * Hansam Cho / 
