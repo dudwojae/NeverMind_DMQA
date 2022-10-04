@@ -22,8 +22,8 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Goeun Chae / Realistic Evaluation of Deep Semi-Supervised Learning Algorithms [[paper]](https://proceedings.neurips.cc/paper/2018/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220923/%5B20220923%5DRealistic%20Evaluation%20of%20Deep%20Semi-Supervised%20Learning%20Algorithms.pdf)
   
 * 2022-09-30
-  * Hansam Cho / 
-  * Jinsoo Bae / 
+  * Hansam Cho / Multi-task Curriculum Framework for Open-Set Semi-supervised Learning [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220930/%5B20220930%5DMulti-Task%20Curriculum%20Framework%20for%20Open-Set%20Semi-Supervised%20Learning.pdf)
+  * Jinsoo Bae / Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data [[paper]](https://proceedings.mlr.press/v119/guo20i.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220930/%5B20220930%5DSafe%20Deep%20Semi-Supervised%20Learning%20for%20Unseen-Class%20Unlabeled%20Data.pdf)
 
 * 2022-10-07
   * Jungin Kim / 
