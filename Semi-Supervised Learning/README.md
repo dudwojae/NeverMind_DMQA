@@ -26,8 +26,8 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Jinsoo Bae / Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data [[paper]](https://proceedings.mlr.press/v119/guo20i.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20220930/%5B20220930%5DSafe%20Deep%20Semi-Supervised%20Learning%20for%20Unseen-Class%20Unlabeled%20Data.pdf)
 
 * 2022-10-07
-  * Jungin Kim / 
-  * Saerin Lim / 
+  * Jungin Kim / PUMAD: PU Metric Learning for Anomaly Detection [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025520302012)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20221007/%5B20221007%5DPUMAD_PU%20Metric%20learning%20for%20anomaly%20detection%20(Information%20Sciences%2C%202020).pdf)
+  * Saerin Lim / OpenMatch: Open-Set Semi-Supervised Learning with Open-Set Consistency Regularization [[paper]](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20221007/%5B20221007%5DOpenMatch%20-%20Open-set%20Consistency%20Regularization%20for%20Semi-supervised%20Learning%20with%20Outliers.pdf)
   
 * 2022-10-28
   * Young Jae Lee /
