@@ -30,6 +30,6 @@ Key Summary and Description of Paper on Semi-Supervised Learning
   * Saerin Lim / OpenMatch: Open-Set Semi-Supervised Learning with Open-Set Consistency Regularization [[paper]](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20221007/%5B20221007%5DOpenMatch%20-%20Open-set%20Consistency%20Regularization%20for%20Semi-supervised%20Learning%20with%20Outliers.pdf)
   
 * 2022-10-28
-  * Young Jae Lee /
-  * Jaehoon Kim / 
+  * Young Jae Lee / Supervision Accelerates Pre-training in Contrastive Semi-Supervised Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2006.10803.pdf)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20221028/%5B20221028%5DSupervision%20Accelerates%20Pre-training%20in%20Contrastive%20Semi-Supervised%20Learning%20of%20Visual%20Representations.pdf)
+  * Jaehoon Kim / Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Assran_Semi-Supervised_Learning_of_Visual_Features_by_Non-Parametrically_Predicting_View_Assignments_ICCV_2021_paper.html)[[presentation]](https://github.com/dudwojae/NeverMind_DMQA/blob/main/Semi-Supervised%20Learning/20221028/%5B20221028%5DSemi-Supervised%20Learning%20of%20Visual%20Features%20by%20Non-Parametrically%20Predicting%20View%20Assignments%20with%20Support%20Samples.pdf)
   * Jinhyeok Park /
